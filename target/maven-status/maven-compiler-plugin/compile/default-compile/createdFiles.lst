@@ -1,0 +1,3 @@
+com\stech\SpringBootElasticserachExampleApplication.class
+com\stech\model\Employee.class
+com\stech\repository\EmployeeRepository.class
